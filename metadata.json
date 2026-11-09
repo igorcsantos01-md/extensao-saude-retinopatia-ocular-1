@@ -1,0 +1,6 @@
+{
+  "name": "Extensão em Saúde Ocular — Prevenção da Retinopatia Diabética & Autenticador Oficial (Certificado Nº 03)",
+  "description": "Plataforma interinstitucional de Educação em Saúde Comunitária, Produção Editorial Científica e Validação Pública do Certificado Nº 03 (EMS-EXT-2024-0215) emitida pela Editora Mente e Saúde e Centro Profissionalizante Maria Dalva de Araújo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
